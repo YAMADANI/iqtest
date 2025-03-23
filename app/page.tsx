@@ -7,6 +7,7 @@ export default function Home() {
       <div className="w-full max-w-2xl px-8 py-5 rounded-2xl bg-white">
         <Content />
       </div>
+      <span className="text-2xl text-red-500">ネタに決まっとるやろ</span>
     </main>
   );
 }
